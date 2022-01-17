@@ -1,0 +1,14 @@
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.csproj.AssemblyReference.cache
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.AssemblyInfoInputs.cache
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.AssemblyInfo.cs
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.csproj.CoreCompileInputs.cache
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.exe
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.deps.json
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.runtimeconfig.json
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.runtimeconfig.dev.json
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.dll
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\bin\Debug\netcoreapp3.1\ManajemenTiketOOP.pdb
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.dll
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.pdb
+C:\C#\ManajemenTiketOOP\ManajemenTiketOOP\obj\Debug\netcoreapp3.1\ManajemenTiketOOP.genruntimeconfig.cache
